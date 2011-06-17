@@ -1,0 +1,50 @@
+
+
+Grupo 1 (Java)
+===========
+91095 Leandro I. Gon Aguirre
+91225 Fernando Cava
+90762 Gabriel Ostrowsky
+
+Grupo 2 (C#)
+===========
+84321 Andres Manikis
+89546 Nicolás Samá
+90289 Alan Helomani
+91352 Federico Churca
+
+Grupo 3 (C#)
+===========
+76187 Lucas Hemmingsen
+2 integrantes mas de los que solo tengo el mail
+
+Grupo 4 (Java)
+===========
+????? Demian Benítez
+????? Sebastián Bogado
+????? Miguel Torres
+
+Grupo 5 (Java)
+===========
+90697 Ariel Eisner
+87654 Karlo Morales Oviedo
+89665 Martín Nives
+88040 Daniel Shlufman
+
+Grupo 6 (Java)
+===========
+91087 Mariana Aberostury
+90976 Catalina Windmüller
+90177 Federico Farina
+90571 Augusto Omar Graziolo
+
+
+
+
+JT	Graziolo, Augusto Omar	90571	GF	6
+JT	Heimmingsen, Lucas	76187	GF	5
+JT	Federico, Pablo	90280	GF	7
+JT	Eismer, Ariel	90697	GF	2
+
+
+

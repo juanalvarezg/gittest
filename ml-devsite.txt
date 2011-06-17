@@ -1,0 +1,2 @@
+amazon ml devsite:
+user ubuntu, password root: Ml123456

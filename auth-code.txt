@@ -1,1 +1,0 @@
-{"requestUrl":"https://api.mercadolibre.com/oauth/token","requestMethod":"POST","requestBody":"grant_type=authorization_code&client_id=936&client_secret=QJ4FoYIn5z4EsvaFpdR6B30Jno6dJ7sv&redirect_uri=http%3A%2F%2Fwww%2google%2Ecom%2Fcb&code=\u000a                ","headers":["Accept","application/json"]}

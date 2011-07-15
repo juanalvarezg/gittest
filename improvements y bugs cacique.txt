@@ -1,8 +1,0 @@
-* Sería deseable que el programador de tareas permita cronear en forma repetitiva.
-* Hacer opcional la registración pública de usuarios
-* No se puede eliminar un usuario (solo desactivar)
-* No se puede crear usuarios desde la pantalla de administración (ej: Soy admin y le quiero crear un usuario a una persona del proyecto)
-* La administración de usuarios no es intuitiva, la rediseñaría para que sea más clásica y no con las 4 listas explícitas que ne se refrezcan automáticamente
-* Cuando falla un script por errores de compilación, el error que se muestra es muy desprolijo y desalineado. Recomiendo mostrar el error entre las etiquetas <pre>...</pre> de HTML que mantienen el formato del texto original.
-* La verificación de sisntaxis podría ir un poco más lejos y armar todo el script como lo hace cuando lo va a ejecutar y compilarlo todo junto para asegurar que funcionará bien con todo armado (que las funciones están presentes, etc).
-

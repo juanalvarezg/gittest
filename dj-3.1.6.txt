@@ -1,5 +1,0 @@
-Release 3.1.6 – 2010-11-24
-
-* added method setHeaderVariablesHeight() to DynamicReportBuilder	(Juan Manuel Alvarez)
-* ImageColumn and BarcodeColumn stretch type was not correctly applied. See BarcodeColumnReportTest2 and see how the large row gets the bottom border properly applied. Fixes 3116544. Thanks to Rutger Jönåker.	(Juan Manuel Alvarez)
-* ColumnBuilder failed to pass image scale mode properly to the column being built.	(Juan Manuel Alvarez)
